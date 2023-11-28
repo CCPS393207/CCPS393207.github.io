@@ -1,9 +1,16 @@
 p{
   font-family:UD Digi Kyokasho NK-B;
-  color:darkgray;
+  color: darkgray;
 }
 h1{
   border: 2.5px solid black;
+}
+html { 
+  background: url(https://unsplash.com/photos/two-gray-pencils-on-yellow-surface-1_CMoFsPfso) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
   
